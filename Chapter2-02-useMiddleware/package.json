@@ -1,5 +1,5 @@
 {
-  "name": "chapter2-01",
+  "name": "Chapter2-02-useMiddleware",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,10 +8,9 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "EGZ",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.13.4",
-    "koa-compose": "^4.1.0"
+    "koa": "^2.13.4"
   }
 }
